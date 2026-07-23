@@ -12,9 +12,9 @@ export default function About() {
             KL Banking is an open-source project created as a university
             assignment with my friends and the JSA community.
           </h1>
-          <h2>Created by Jitendra:)</h2>
+          <h2>Created by Eswar:)</h2>
           <p>
-            Github: <a href="https://github.com/jithu30393">Jitendra</a> |{" "}
+            Github: <a href="https://github.com/eswar1795">Eswar</a> |{" "}
           </p>
         </div>
 

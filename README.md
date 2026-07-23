@@ -53,7 +53,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/jithu30393/KL-Online-Banking-System.git
+git clone https://github.com/eswar1795/KL-Online-Banking-System.git
 cd KL-Online-Banking-System
 ```
 
