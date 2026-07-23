@@ -94,6 +94,6 @@ This project is licensed under the GPL-3.0 License.
 
 ## Author
 
-**Jitendra Maddineni**
+**Eswar Maddineni**
 
-GitHub: https://github.com/jithu30393
+GitHub: https://github.com/eswar1795
